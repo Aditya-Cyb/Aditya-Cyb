@@ -17,7 +17,6 @@ My focus areas include CI/CD pipelines, Docker containerization, Infrastructure 
 ## 💼 Experience
 
 ### DevOps Intern — Elevate Labs
-**September 28, 2026 – Present** · Remote
 
 Selected for a 45-day DevOps internship focused on practical exposure to DevOps tools, cloud infrastructure, CI/CD pipelines, and automation.
 
