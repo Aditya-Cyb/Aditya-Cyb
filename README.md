@@ -198,8 +198,6 @@ Bachelor of Technology (B.Tech) — Computer Science Engineering
 
 Completed the Tutedude DevOps course, strengthening my understanding of DevOps concepts and workflows.
 
-> To display the certificate image here, upload it to `assets/tutedude-devops-certificate.png` in this repository.
-
 <details>
   <summary>View DevOps Certificate</summary>
 
