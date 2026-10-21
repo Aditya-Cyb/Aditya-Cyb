@@ -201,7 +201,7 @@ Completed the Tutedude DevOps course, strengthening my understanding of DevOps c
 <details>
   <summary>View DevOps Certificate</summary>
 
- <img src="https://raw.githubusercontent.com/Aditya-Cyb/Aditya-Cyb/main/assets/tutedude-devops-certificate.png" alt="Tutedude DevOps Course Completion Certificate" width="700">
+ <img src="./assets/tutedude-devops-certificate.png.PNG" alt="Tutedude DevOps Course Completion Certificate" width="700">
 
 </details>
 
