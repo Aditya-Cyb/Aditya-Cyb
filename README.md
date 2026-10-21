@@ -203,7 +203,7 @@ Completed the Tutedude DevOps course, strengthening my understanding of DevOps c
 <details>
   <summary>View DevOps Certificate</summary>
 
-  ![Tutedude DevOps Course Completion Certificate](assets/tutedude-devops-certificate.png)
+ ![Tutedude DevOps Course Completion Certificate](assets/tutedude-devops-certificate.png.PNG)
 
 </details>
 
